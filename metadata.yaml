@@ -1,5 +1,8 @@
 _repo: A-Master-s-Degree_1348
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McCarter, Margaret Hill
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '613'
     url: http://www.gutenberg.org/2009/agents/613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1348#A-Master-s-Degree
 gutenberg_issued: '1998-06-01'
 gutenberg_type: Text
 identifiers:
